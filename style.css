@@ -81,63 +81,10 @@ section{
 }
 
 
-#v{
-    color:aqua;
-    background-color: transparent;
-    height:30px;
-    width:40px;
-}
-#i{
-    color:rgb(30, 255, 30);
-    background-color: transparent;
-    height:30px;
-    width:40px;
-}
-#r{
-    color:orange;
-    background-color: transparent;
-    height:30px;
-    width:40px;
-}
-#t{
-    color:aqua;
-    background-color: transparent;
-    height:30px;
-    width:30px;
-}
-#u{
-    color:whitesmoke;
-    background-color: transparent;
-    height:30px;
-    width:30px;
-}
-#a{
-    color:yellow;
-    background-color: transparent;
-    height:30px;
-    width:30px;
-}
-#l{
-    color:peru;
-    background-color: transparent;
-    height:30px;
-    width:30px;
-}
-#m{
-    color:yellowgreen;
-    background-color: transparent;
-    height:30px;
-    width:30px;
-}
-#x{
-    color:red;
-    background-color: transparent;
-    height:30px;
-    width:30px;
-}
 
-#span{
-    border:solid;
-    padding: 5px;
-    background-color: black;
+p{
+    color:red;
+    font-weight:bold;
+    text-decoration: underline;
+    font-size:20px;
 }

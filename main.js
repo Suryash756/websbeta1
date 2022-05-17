@@ -158,6 +158,196 @@ function go(){
        if(search=="Akash"){
         location.href="#section4";
        }
+       if(search=="suryash"){
+           console.log("suryash jha")
+       }
+       if(search=="wikipedia"){
+           location.href="#section5";
+       }
+       if(search=="WIKIPEDIA"){
+        location.href="#section5";
+    }
+    if(search=="Wikipedia"){
+        location.href="#section5";
+    }
+    if(search=="yahoo"){
+        location.href="#section5";
+    }
+    if(search=="YAHOO"){
+        location.href="#section5";
+    }
+    if(search=="Yahoo"){
+        location.href="#section5";
+    }
+    if(search=="reddit"){
+        location.href="#section5";
+    }
+    if(search=="Reddit"){
+        location.
+        href="#section5";
+    }
+    if(search=="REDDIT"){
+        location.href="#section5";
+    }
+    if(search=="redit"){
+        location.href="#section5";
+    }
+    if(search=="Redit"){
+        location.href="#section5";
+    }
+    if(search=="REDIT"){
+        location.href="#section5";
+    }
+    if(search=="bing"){
+        location.href="#section5";
+    }
+    if(search=="Bing"){
+        location.href="#section5";
+    }
+    if(search=="BING"){
+        location.href="#section5";
+    }
+    if(search=="netflix"){
+        location.href="#section6";
+    }
+    if(search=="Netflix"){
+        location.href="#section6";
+    }
+    if(search=="NETFLIX"){
+        location.href="#section6";
+    }
+    if(search=="disney plus"){
+        location.href="#section6";
+    }
+    if(search=="Disney plus"){
+        location.href="#section6";
+    }
+    if(search=="DISNEY PLUS"){
+        location.href="#section6";
+    }
+    if(search=="disneyplus"){
+        location.href="#section6";
+    }
+    if(search=="Disneyplus"){
+        location.href="#section6";
+    }
+    if(search=="DISNEYPLUS"){
+        location.href="#section6";
+    }
+    if(search=="disney +"){
+        location.href="#section6";
+    }
+    if(search=="Disney +"){
+        location.href="#section6";
+    }
+    if(search=="DISNEY +"){
+        location.href="#section6";
+    }
+    if(search=="disney+"){
+        location.href="#section6";
+    }
+    if(search=="Disney+"){
+        location.href="#section6";
+    }
+    if(search=="DISNEY+"){
+        location.href="#section6";
+    }
+    if(search=="disneyplushotstar"){
+        location.href="#section6";
+    }
+    if(search=="DISNEYPLUSHOTSTAR"){
+        location.href="#section6";
+    }
+    if(search=="Disneyplushotstar"){
+        location.href="#section6";
+    }
+    if(search=="disney plus hotstar"){
+        location.href="#section6";
+    }
+    if(search=="DISNEY PLUS HOTSTAR"){
+        location.href="#section6";
+    }
+    if(search=="Disney plus hotstar"){
+        location.href="#section6";
+    }
+    if(search=="hotstar"){
+        location.href="#section6";
+    }
+    if(search=="Hotstar"){
+        location.href="#section6";
+    }
+    if(search=="HOTSTAR"){
+        location.href="#section6";
+    }
+    if(search=="amazon prime"){
+        location.href="#section6";
+    }
+    if(search=="Amazon prime"){
+        location.href="#section6";
+    }
+    if(search=="AMAZON PRIME"){
+        location.href="#section6";
+    }
+    if(search=="PRIME"){
+        location.href="#section6";
+    }
+    if(search=="prime"){
+        location.href="#section6";
+    }
+    if(search=="Prime"){
+        location.href="#section6";
+    }
+    if(search=="prime video"){
+        location.href="#section6";
+    }
+    if(search=="Prime video"){
+        location.href="#section6";
+    }
+    if(search=="PRIME VIDEO"){
+        location.href="#section6";
+    }
+    if(search=="ebay"){
+        location.href="#section6";
+    }
+    if(search=="Ebay"){
+        location.href="#section6";
+    }
+    if(search=="EBAY"){
+        location.href="#section6";
+    }
+    if(search=="walmart"){
+        location.href="#section7"
+    }
+    if(search=="Walmart"){
+        location.href="#section7"
+    }
+    if(search=="espn"){
+        location.href="#section7"
+    }
+    if(search=="Espn"){
+        location.href="#section7"
+    }
+    if(search=="ESPN"){
+        location.href="#section7"
+    }
+    if(search=="fandom"){
+        location.href="#section7"
+    }
+    if(search=="Fandom"){
+        location.href="#section7"
+    }
+    if(search=="FANDOM"){
+        location.href="#section7"
+    }
+    if(search=="cnn"){
+        location.href="#section7"
+    }
+    if(search=="Cnn"){
+        location.href="#section7"
+    }
+    if(search=="CNN"){
+        location.href="#section7"
+    }
 }
 
 
