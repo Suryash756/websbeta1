@@ -107,8 +107,56 @@ function go(){
        if(search=="AKASH"){
         location.href="#section4";
        }
-       else{
-           alert("opps please re-type😊.")
+       if(search=="Google"){
+           location.href="#section1"
+       }
+       if(search=="Amazon"){
+        location.href="#section1"
+    }
+    if(search=="Flipkart"){
+        location.href="#section1"
+    }
+    if(search=="Facebook"){
+        location.href="#section1"
+    }
+    if(search=="Youtube"){
+        location.href="#section2"
+    }
+    if(search=="Instagram"){
+        location.href="#section2"
+    }
+    if(search=="Twitter"){
+        location.href="#section2"
+    }
+    if(search=="Uber"){
+        location.href="#section2"
+    }
+    if(search=="Oyo"){
+        location.href="#section3"
+    }
+    if(search=="Oyo"){
+        location.href="#section3"
+    }
+    if(search=="Ola"){
+        location.href="#section3"
+    }
+    if(search=="Zomato"){
+        location.href="#section3"
+    }
+    if(search=="Swiggy"){
+        location.href="#section3"
+    }
+    if(search=="Byjus"){
+        location.href="#section4";
+       }
+       if(search=="Whitehat jr"){
+        location.href="#section4";
+       }
+       if(search=="Vedantu"){
+        location.href="#section4";
+       }
+       if(search=="Akash"){
+        location.href="#section4";
        }
 }
 
