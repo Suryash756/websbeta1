@@ -348,18 +348,115 @@ function go(){
     if(search=="CNN"){
         location.href="#section7"
     }
+    if(search=="foxnews"){
+        location.href="#section8"
+    }
+    if(search=="Foxnews"){
+        location.href="#section8"
+    }
+    if(search=="FOXNEWS"){
+        location.href="#section8"
+    }
+    if(search=="fox news"){
+        location.href="#section8"
+    }
+    if(search=="Fox news"){
+        location.href="#section8"
+    }
+    if(search=="FOX NEWS"){
+        location.href="#section8"
+    }
+    if(search=="microsoft"){
+        location.href="#section8"
+    }
+    if(search=="Microsoft"){
+        location.href="#section8"
+    }
+    if(search=="MICROSOFT"){
+        location.href="#section8"
+    }
+    if(search=="twitch"){
+        location.href="#section8"
+    }
+    
+    if(search=="Twitch"){
+        location.href="#section8"
+    }
+    
+    if(search=="TWITCH"){
+        location.href="#section8"
+    }
+    
+    if(search=="craigslist"){
+        location.href="#section8"
+    }
+    if(search=="Craigslist"){
+        location.href="#section8"
+    }
+    if(search=="CRAIGSLIST"){
+        location.href="#section8"
+    }
+    if(search=="outlook"){
+        location.href="#section9"
+    }
+    
+    if(search=="Outlook"){
+        location.href="#section9"
+    }
+    
+    if(search=="OUTLOOK"){
+        location.href="#section9"
+    }
+    
+    if(search=="instructure"){
+        location.href="#section9"
+    }
+    
+    if(search=="Instructure"){
+        location.href="#section9"
+    }
+    
+    if(search=="INSTRUCTURE"){
+        location.href="#section9"
+    }
+    
+    if(search=="the weather channel"){
+        location.href="#section9"
+    }
+    
+    if(search=="The weather channel"){
+        location.href="#section9"
+    }
+    
+    if(search=="THE WEATHER CHANNEL"){
+        location.href="#section9"
+    }
+    if(search=="microsoft office"){
+        location.href="#section9"
+    }
+    if(search=="Microsoft office"){
+        location.href="#section9"
+    }
+    if(search=="MICROSOFT OFFICE"){
+        location.href="#section9"
+    }
+    if(search=="microsoftoffice"){
+        location.href="#section9"
+    }
+    if(search=="Microsoftoffice"){
+        location.href="#section9"
+    }
+    if(search=="MICROSOFTOFFICE"){
+        location.href="#section9"
+    }
+    if(search=="office"){
+        location.href="#section9"
+    }
+    if(search=="Office"){
+        location.href="#section9"
+    }
+    if(search=="OFFICE"){
+        location.href="#section9"
+    }
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
