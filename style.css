@@ -1,0 +1,143 @@
+body{
+    text-align: center;
+    background-color: #4158D0;
+    background:linear-gradient(to right, rgb(204, 43, 94), rgb(117, 58, 136));
+    cursor: pointer;
+}
+#web{
+    height:200px;
+    width:200px;
+    border-radius:20%;
+    transition:transform.2s ;
+    border:solid;
+    border-color:white ;
+}
+#web:hover{
+    transform:scale(0.9)
+}
+marquee{
+    background-color:black;
+    border:solid;
+    border-top: white;
+    color:white;
+    height:40px;
+    font-size:30px;
+    font-weight:bold;
+    text-decoration:underline;
+    margin:5px;
+    border-top: solid;
+    border-top-color:white;
+}
+input{
+    height:30px;
+    width:210px;
+    background-color: white;
+    font-weight:bold;
+    border:solid;
+    margin-top:5px;
+    margin-top:-2px;
+    border-width:3px;
+}
+button{
+    font-weight:bold;
+    border:solid;
+    height:40px;
+    background-color:orange;
+    transition:transform.2s;
+    margin-top: 5px;
+    margin-top: 2px;
+    font-weight: bolder;
+    border-width: 3px;
+    color:black;
+    border-color: black;
+    
+}
+button:hover{
+    transform:scale(0.9);
+}
+img{
+    height:200px;
+    width: 140px;
+    border:ridge;
+    border-color:black;
+    transform: transition.2s;
+    border-width:3px;
+    
+    
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+section{
+    border:ridge;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border-width:4px;  
+    background: linear-gradient(to right, rgb(211, 27, 27) , rgb(139, 23, 139)) ;
+    border-color: black;
+}
+
+
+#v{
+    color:aqua;
+    background-color: transparent;
+    height:30px;
+    width:40px;
+}
+#i{
+    color:rgb(30, 255, 30);
+    background-color: transparent;
+    height:30px;
+    width:40px;
+}
+#r{
+    color:orange;
+    background-color: transparent;
+    height:30px;
+    width:40px;
+}
+#t{
+    color:aqua;
+    background-color: transparent;
+    height:30px;
+    width:30px;
+}
+#u{
+    color:whitesmoke;
+    background-color: transparent;
+    height:30px;
+    width:30px;
+}
+#a{
+    color:yellow;
+    background-color: transparent;
+    height:30px;
+    width:30px;
+}
+#l{
+    color:peru;
+    background-color: transparent;
+    height:30px;
+    width:30px;
+}
+#m{
+    color:yellowgreen;
+    background-color: transparent;
+    height:30px;
+    width:30px;
+}
+#x{
+    color:red;
+    background-color: transparent;
+    height:30px;
+    width:30px;
+}
+
+#span{
+    border:solid;
+    padding: 5px;
+    background-color: black;
+}
