@@ -50,6 +50,9 @@ button{
     border-width: 3px;
     color:black;
     border-color: black;
+    width:80px;
+    font-size:15px;
+    
     
 }
 button:hover{
@@ -83,10 +86,13 @@ section{
 
 
 p{
-    color:red;
+    color:black;
     font-weight:bold;
-    text-decoration: underline;
     font-size:20px;
+    border:solid;
+    background: transparent;
+    width:200px;
+    background-color: orange;
 }
 
 #back{
