@@ -3,6 +3,7 @@ body{
     background-color: #4158D0;
     background:linear-gradient(to right, rgb(204, 43, 94), rgb(117, 58, 136));
     cursor: pointer;
+    
 }
 #web{
     height:200px;
@@ -93,7 +94,7 @@ p{
     background: transparent;
     width:200px;
     background-color: orange;
-    border-width: 5px;
+    border-width: 3px;
 }
 
 #back{
@@ -101,4 +102,7 @@ p{
     width:100px;
     background-color:orange;
     font-size:20px;
+}
+#tesla{
+    background-color: black;
 }
